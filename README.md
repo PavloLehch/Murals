@@ -1,4 +1,4 @@
-Projekt „Murals” -to back-end część web-serwisu do zarządzania łódzkimi (i nie tylko) muralami.
+Projekt „Murals” - to back-end część web-serwisu do zarządzania łódzkimi (i nie tylko) muralami.
 
 Ta strona internetowa pozwala wprowadzać do bazy danych nowe murale i edytować istniejące, zapisując taką informację: nazwa, autor, osiedle, adres, zdjęcie. Działa poszukiwarka za jednym z wkazanych parametrem na rządanie użytkownika.
 
